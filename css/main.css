@@ -1,0 +1,176 @@
+body
+{
+    padding-top:78px;
+    background:#fff;
+}
+body p,
+ul
+{
+    font-size:16px;
+}
+h1, h2, h3, h4, h5, h6 {font-weight: bold;}
+.banner-section
+{
+    width:100%;
+    background:#f4f4f4;
+    height:350px;
+    padding: 7% 20px;
+}
+.overlay
+{
+    background:rgba(255,255,255, .4);
+    border-radius: 8px;
+    padding:25px;
+}
+.banner-section h1
+{
+    font-size:3rem;
+    font-weight: normal;
+}
+.home-banner
+{
+    background-image: url('../images/home-banner-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+}
+
+.page-header
+{
+    width:100%;
+    padding:4% 15px;
+    background:#c42126;
+    min-height: 150px;
+    color:#fff;
+}
+
+.welcome
+{
+    margin-top:50px;
+    margin-bottom: 25px;
+}
+.welcome h1
+{
+    font-size:3rem;
+    font-weight: normal;
+}
+.welcome p {font-size:1.3rem;}
+
+.services
+{
+    margin-top:20px;
+}
+.service
+{
+    min-height: 300px;
+    color:#fff;
+    padding:40px 25px;
+}
+.black
+{
+    background:#333;
+}
+.red
+{
+    background:#c42126;
+}
+.light-black
+{
+    background:#7e7e7e;
+}
+.lighter-black
+{
+    background:rgba(0,0,0,.12);
+    color:#000;
+}
+
+.service h3
+{
+    font-weight: normal;
+}
+.highlight
+{
+    color:#c42126;
+}
+.steps
+{
+    margin-top:50px;
+}
+
+.steps h2
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 32px;
+    color:#555;
+
+}
+
+.loan-application
+{
+    margin-top:25px;
+    padding:15px;
+}
+span.required
+{
+    color:#c42126;
+    font-weight: bold;    
+}
+.text-danger
+{
+    color:#c42126;
+    font-size:18px;
+}
+.application-form
+{
+    border-top:none;
+}
+.section-title
+{
+    background:#f4f4f4;
+    padding:8px 10px;
+    margin-bottom: 10px;
+}
+
+/*about us */
+.about
+{
+    margin-top:50px;
+}
+/*contact*/
+.contact
+{
+    margin-top:5em;
+}
+.contact-form
+{
+    margin-top:2em;
+}
+.contact-details
+{
+    margin-top:40px;
+}
+
+/*social media */
+footer .fa
+{
+    font-size:2em;
+    display: inline-block;
+    margin-right: 5px;
+    margin-top:5px;
+}
+/*Footer*/
+footer
+{
+    margin-top:50px;
+    width:100%;
+    background:#f4f4f4;
+    padding:40px 15px;
+    color:#666;
+}
+
+.copyright
+{
+    border-top:1px solid #ddd;
+    padding-top:15px;
+}
